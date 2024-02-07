@@ -1,5 +1,14 @@
 This is a simple weather application built using React and styled-components. The app allows users to search for the current weather conditions of a specific city. It fetches real-time weather data from the OpenWeatherMap API.
 
+demo picture:
+
+![image](https://github.com/Rohitkansagara/react_weather_App-Using-API/assets/140929714/85a99bec-f520-4b35-8162-5f3774f2e2a5)
+
+second picture:
+![image](https://github.com/Rohitkansagara/react_weather_App-Using-API/assets/140929714/f75f5a49-7739-4df4-9ac9-a8193dc7bd2b)
+
+
+
 
 
 Features
@@ -11,7 +20,7 @@ Getting Started
 To run the app locally, follow these steps:
 
 1)Clone the repository:
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Rohitkansagara/react_weather_App-Using-API.git
 
 2)Install dependencies:
 cd weather-app
